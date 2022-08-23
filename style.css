@@ -1,0 +1,98 @@
+
+/****************************COLOR AL BODY****************************/
+
+.container-fluid {
+    background-color: #ffffff;
+background-image: linear-gradient(180deg, #ffffff 0%, #FAD961 46%, #F76B1C 66%, #09768c 90%);
+
+}  
+
+
+
+/****************************Estilo al NAVBAR****************************/
+
+.container-fluid {
+    background-color: white;
+    
+}
+
+#navbarNav {
+    background-color: white;
+    text-align: center;
+}
+
+
+/***********************Estilo al MENU INDEX***********************/
+
+h1 {
+    font-size: 5rem;
+}
+
+
+h2 {
+    margin: 3rem;
+    padding: 2rem;
+    font-size: 3rem;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    width: 35rem;
+    border: 2px solid black;
+    border-radius: 5%;
+    margin: 10rem;
+    
+}
+
+
+
+/***********************Estilo al FOOTER***********************/
+
+footer {
+    padding-top: 2rem;
+    background-color: bisque;
+    text-align: center;
+    border: 2px solid gold;
+    border-radius: 2%;
+    
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 2rem;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+/************************HISTORIA*********************/
+
+.pHistoria {
+    margin: 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
